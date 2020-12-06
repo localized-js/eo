@@ -1,0 +1,17 @@
+{
+  "name": "@localized/eo",
+  "version": "0.3.1-alpha",
+  "description": "@localized, Esperanto",
+  "main": "main.js",
+  "scripts": {
+    "test": "tsc -p . && node test/main.test.js"
+  },
+  "author": "RubenVerg <me@rubenverg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@localized/core": "^0.3.1-alpha"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10"
+  }
+}
